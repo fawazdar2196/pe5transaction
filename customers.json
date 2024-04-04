@@ -1,0 +1,19 @@
+{
+    "john_doe": {
+      "checking": 1200,
+      "saving": 5000
+    },
+    "jane_doe": {
+      "checking": 1500,
+      "saving": 5500
+    },
+    "alex_smith": {
+      "checking": 800,
+      "saving": 4500
+    },
+    "maria_garcia": {
+      "checking": 2000,
+      "saving": 6000
+    }
+  }
+  
